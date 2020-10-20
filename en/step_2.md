@@ -18,7 +18,7 @@ You should see...
 ```python
 print ("Hello World")
 ```
-```scratch3
+```blocks3
 when flag clicked
 say [hello]
 ```
