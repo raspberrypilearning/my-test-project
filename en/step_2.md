@@ -18,6 +18,10 @@ You should see...
 ```python
 print ("Hello World")
 ```
+```scratch3
+when flag clicked
+say [hello]
+```
 --- /task ---
 
 --- save ---
