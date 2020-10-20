@@ -15,9 +15,9 @@ You should see...
 --- /task ---
 
 --- task ---
-
-Step content...
-
+```python
+print ("Hello World")
+```
 --- /task ---
 
 --- save ---
